@@ -1,4 +1,4 @@
- InteractOS 🚀
+ InteractOS 
 
  Rethinking How Humans Explore Websites
 
