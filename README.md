@@ -63,5 +63,5 @@ This repository contains a working prototype demonstrating:
 
  Hackathon Submission
 
-- Live Demo: 
+- Live Demo:  https://interactos.vercel.app
 - YouTube Walkthrough: 
