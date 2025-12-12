@@ -28,7 +28,8 @@ InteractOS interprets intent and dynamically reshapes the experience.
 - Intent-based interaction (no navigation menus)
 - Adaptive content layouts
 - Smooth animated transitions
-- Minimal, futuristic UI
+- Voice-based intent input
+- Accessibility-first interaction (keyboard & screen reader friendly)
 
 
 

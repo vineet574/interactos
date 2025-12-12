@@ -16,5 +16,3 @@
 
 InteractOS is a step toward a more natural and intelligent web.
 
-
-

@@ -72,3 +72,20 @@ p {
   font-style: italic;
   white-space: nowrap;
 }
+
+/* ---- Newly added ---- */
+
+.voice-btn {
+  margin-left: 0.6rem;
+  padding: 0.6rem 0.9rem;
+  border-radius: 999px;
+  border: none;
+  background: rgba(255, 255, 255, 0.12);
+  color: #e5e7eb;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.voice-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}

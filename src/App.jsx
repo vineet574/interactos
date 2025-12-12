@@ -27,7 +27,7 @@ export default function App() {
 
       {mode && (
         <>
-          <p className="intent-feedback">
+          <p className="intent-feedback" role="status" aria-live="polite">
             Mode detected: <strong>{mode}</strong>
           </p>
 
